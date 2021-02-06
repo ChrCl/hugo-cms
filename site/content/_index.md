@@ -1,20 +1,28 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Gagnez de 0 à 140 millions en une fois ?
+subtitle: Je vous donne LA clef de VOTRE succès !
+image: img/micheile-henderson-sot4-mzhyhe-unsplash.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Pourquoi ?
+  text: Vous vous posez des questions ? Vous n'êtes pas sûr de vous au moment
+    fatidique ? Vous aimeriez devenir plus riche ? Votre situation actuelle ne
+    vous conviens pas ? Vous êtes fragile émotionnellement ? Si vous répondez
+    oui à l'une de ces questions alors je peux vous aider !
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Comment faire ?
+  text: Suivez mes conseils à la lettre ! Ne pensez pas par vous même, laissez moi
+    vous aider et vous apporter tous les conseils dont vous avez besoin pour
+    réussir.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - text: Coaching grille Euromillions. Bien débuter pour être sûr de gagner.
+    image: img/waldemar-brandt-s6lzmioeeqg-unsplash.jpg
+  - image: img/dylan-nolte-rssqjpezn6o-unsplash.jpg
+    text: La science du tirage, tout savoir pour l'emporter.
+  - image: img/markus-spiske-ms6n-gbtbcq-unsplash.jpg
+    text: Comment tirer partie de vos économies.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Mes valeurs
+  text: "Doté d'un don naturel pour réussir tout ce que j'entreprends, j'ai passé
+    ma vie à réussir. Mais ma réussite ne peux être complète que si je partage
+    cela avec vous.  "
 ---
-
